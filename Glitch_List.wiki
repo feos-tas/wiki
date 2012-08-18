@@ -21,6 +21,7 @@
  * Level 3 [CannonPickUp Pick up a cannon] (Взять на руки пушку в 3)
  * Level 3 [Scrolling] (Глюк скроллинга экрана в 3)
  * Level 5 [StopFires Switch the fires off] (Отключение мелких турбин в 5)
+ * Level 6 [ShadowBoss Shadow-Boss tricks] (Трюки с Шадоу-боссом)
 
  
 
