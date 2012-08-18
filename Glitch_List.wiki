@@ -5,7 +5,7 @@
 =NES Battletoads=
 
  * [LevelEnd Level End object] (Создание объекта "Конец уровня")
- * Level 12 [MinusPlayer -1 Player mode] (Исчезновение второго игрока в 12)
+ * Level 12 [MinusPlayer Minus 1 player mode] (Исчезновение второго игрока в 12)
 
 
 
