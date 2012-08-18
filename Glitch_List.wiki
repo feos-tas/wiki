@@ -1,4 +1,4 @@
-#summary Сначала добавляем трюки сюда, потом создаем страницы
+#summary Primary list to fill first. Сначала добавляем трюки сюда, потом создаем страницы.
 
 =NES Battletoads=
 
