@@ -4,7 +4,7 @@
 
 =NES Battletoads=
 
- * [OutOfBounds Out of bounds] (выход из границ бэкграунда)
+ * [OutOfBounds Out of bounds] (Выход из границ бэкграунда)
  * [LevelEnd Level End object] (Создание объекта "Конец уровня")
 
 
