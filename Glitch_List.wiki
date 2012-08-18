@@ -25,5 +25,4 @@
  * [GlitchStick Glitch stick] (глючная палка)
  * [LuckManipulation Luck manipulation] (манипуляция удачей)
  * [LeftRight Left + Right]
- * [PickPp Pick up] (подхват персонажей)
  * [VoidJump Void jump] (прыжок из бездны)
