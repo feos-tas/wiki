@@ -12,11 +12,11 @@
 
 
 =Common tricks=
- * Attack (трюки с атакой)
- * Dash (разбежка)
- * Void jump (прыжок из бездны)
- * Luck manipulation (манипуляция удачей)
- * Left + Right
- * [GlitchStick  Glitch Stick] (глючная палка)
- * Pick up (подхват персонажей)
- * Duck or Jump (сидя или прыгая)
+ * [Attack] (трюки с атакой)
+ * [Dash] (разбежка)
+ * [VoidJump Void jump] (прыжок из бездны)
+ * [LuckManipulation Luck manipulation] (манипуляция удачей)
+ * [LeftRight Left + Right]
+ * [GlitchStick Glitch Stick] (глючная палка)
+ * [PickPp Pick up] (подхват персонажей)
+ * [DuckJump Duck or Jump] (сидя или прыгая)
