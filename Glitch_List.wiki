@@ -4,25 +4,30 @@
 
 =NES Battletoads=
 
- * [LevelEnd Level End object] (создание объекта "Конец уровня")
+ * [LevelEnd Level End object] (Создание объекта "Конец уровня")
 
 
 
 =NES Battletoads & Double Dragon=
 
+ * [BurnOutAnimation Burn out animation] (Неуместное сгорание)
+ * [HitSpawningEnemy Hit enemy that is spawning] (Ударить врага в момент его зарождения)
+ * [JugglingEnemies Juggling enemies] (Жонглирование врагами)
  * Level 2-3 [BigBlag Big Blag on the speedway] (Биг Блэг в режиме трассы)
- * Level 2-3 [LadderDash Ladder dash state] (бег по сетке в 2-3)
- * Level 2-3 [FlyingBike Flying Bike] (полеты на байке в 2-3)
- * Level 3 [CannonHook Cannon hook] (цепляние за пушку в 3)
+ * Level 2-3 [LadderDash Ladder dash state] (Бег по сетке в 2-3)
+ * Level 2-3 [FlyingBike Flying bike] (Полеты на байке в 2-3)
+ * Level 3 [CannonHook Cannon hook] (Цепляние за пушку в 3)
+ * Level 5 [StopFires Switch the fires off] (Отключение мелких турбин в 5)
 
+ 
 
 
 =Common tricks=
 
- * [Attack] (трюки с атакой)
- * [Dash] (разбежка)
- * [DuckJump Duck or jump] (сидя или прыгая)
- * [GlitchStick Glitch stick] (глючная палка)
- * [LuckManipulation Luck manipulation] (манипуляция удачей)
- * [LeftRight Left + Right]
- * [VoidJump Void jump] (прыжок из бездны)
+ * [Attack] (Трюки с атакой)
+ * [Dash] (Разбежка)
+ * [DuckJump Duck or jump] (Начать уровень сидя или прыгая)
+ * [GlitchStick Glitch stick] (Глючная палка)
+ * [LuckManipulation Luck manipulation] (Манипуляция удачей)
+ * [LeftRight Left + Right] (Работа Влево+Вправо)
+ * [VoidJump Void jump] (Прыжок из бездны)
