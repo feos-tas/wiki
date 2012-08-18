@@ -17,6 +17,6 @@
  * Void jump (прыжок из бездны)
  * Luck manipulation (манипуляция удачей)
  * Left + Right
- * GlitchStick (глючная палка)
+ * [GlitchStick  Glitch Stick] (глючная палка)
  * Pick up (подхват персонажей)
  * Duck or Jump (сидя или прыгая)
