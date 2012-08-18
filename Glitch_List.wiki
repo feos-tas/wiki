@@ -17,7 +17,7 @@
  * Level 2-3 [LadderDash Ladder dash state] (Бег по сетке в 2-3)
  * Level 2-3 [FlyingBike Flying bike] (Полеты на байке в 2-3)
  * Level 3 [CannonHook Cannon hook] (Цепляние за пушку в 3)
- * Level 3 [Scrolling] (Глюк скроллинга экрана)
+ * Level 3 [Scrolling] (Глюк скроллинга экрана в 3)
  * Level 5 [StopFires Switch the fires off] (Отключение мелких турбин в 5)
 
  
