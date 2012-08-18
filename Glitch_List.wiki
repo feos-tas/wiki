@@ -16,7 +16,9 @@
  * Level 2-3 [BigBlag Big Blag on the speedway] (Биг Блэг в режиме трассы)
  * Level 2-3 [LadderDash Ladder dash state] (Бег по сетке в 2-3)
  * Level 2-3 [FlyingBike Flying bike] (Полеты на байке в 2-3)
+ * Level 3 [CannonFastKill Cannon fast kill] (Быстро убить пушку в 3)
  * Level 3 [CannonHook Cannon hook] (Цепляние за пушку в 3)
+ * Level 3 [CannonPickUp Pick up a cannon] (Взять на руки пушку в 3)
  * Level 3 [Scrolling] (Глюк скроллинга экрана в 3)
  * Level 5 [StopFires Switch the fires off] (Отключение мелких турбин в 5)
 
