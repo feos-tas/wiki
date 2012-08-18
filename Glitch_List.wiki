@@ -1,5 +1,7 @@
 #summary Сначала добавляем трюки сюда, потом создаем страницы. [ Primary list to fill first. ]
 
+Сортируем по алфавиту.
+
 =NES Battletoads=
 
 
@@ -16,9 +18,9 @@
 =Common tricks=
  * [Attack] (трюки с атакой)
  * [Dash] (разбежка)
- * [VoidJump Void jump] (прыжок из бездны)
+ * [DuckJump Duck or Jump] (сидя или прыгая)
+ * [GlitchStick Glitch Stick] (глючная палка)
  * [LuckManipulation Luck manipulation] (манипуляция удачей)
  * [LeftRight Left + Right]
- * [GlitchStick Glitch Stick] (глючная палка)
  * [PickPp Pick up] (подхват персонажей)
- * [DuckJump Duck or Jump] (сидя или прыгая)
+ * [VoidJump Void jump] (прыжок из бездны)
