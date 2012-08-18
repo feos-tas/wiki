@@ -10,16 +10,17 @@
 
 =NES Battletoads & Double Dragon=
 
-
+* Level 2-3 [LadderDash Ladder dash state] (бег по лестнице в 2-3)
 
 
 
 
 =Common tricks=
+
  * [Attack] (трюки с атакой)
  * [Dash] (разбежка)
- * [DuckJump Duck or Jump] (сидя или прыгая)
- * [GlitchStick Glitch Stick] (глючная палка)
+ * [DuckJump Duck or jump] (сидя или прыгая)
+ * [GlitchStick Glitch stick] (глючная палка)
  * [LuckManipulation Luck manipulation] (манипуляция удачей)
  * [LeftRight Left + Right]
  * [PickPp Pick up] (подхват персонажей)
