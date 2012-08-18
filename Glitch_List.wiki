@@ -4,7 +4,7 @@
 
 =NES Battletoads=
 
-* [LevelEnd Level End object] (создание объекта "Конец уровня")
+ * [LevelEnd Level End object] (создание объекта "Конец уровня")
 
 
 
