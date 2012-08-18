@@ -4,7 +4,6 @@
 
 =NES Battletoads=
 
- * [OutOfBounds Out of bounds] (Выход из границ бэкграунда)
  * [LevelEnd Level End object] (Создание объекта "Конец уровня")
 
 
@@ -34,4 +33,5 @@
  * [GlitchStick Glitch stick] (Глючная палка)
  * [LuckManipulation Luck manipulation] (Манипуляция удачей)
  * [LeftRight Left + Right] (Работа Влево+Вправо)
+ * [OutOfBounds Out of bounds] (Выход из границ бэкграунда)
  * [VoidJump Void jump] (Прыжок из бездны)
