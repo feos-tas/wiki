@@ -10,7 +10,7 @@
 
 =NES Battletoads & Double Dragon=
 
- * Level 2-3 [LadderDash Ladder dash state] (бег по лестнице в 2-3)
+ * Level 2-3 [LadderDash Ladder dash state] (бег по сетке в 2-3)
 
 
 
