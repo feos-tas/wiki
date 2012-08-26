@@ -35,5 +35,6 @@
  * [GlitchStick Glitch stick] (Глючная палка)
  * [LuckManipulation Luck manipulation] (Манипуляция удачей)
  * [LeftRight Left + Right] (Работа Влево+Вправо)
+ * [ObjectCounter Object Counter glitch] (Глюк счетчика объектов)
  * [OutOfBounds Out of bounds] (Выход из границ бэкграунда)
  * [VoidJump Void jump] (Прыжок из бездны)
