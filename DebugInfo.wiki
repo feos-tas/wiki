@@ -1,12 +1,11 @@
 #summary Тонкости дебага
-{{{
- PRG ROM:   16 x 16KiB
- CHR ROM:    0 x  8KiB
- ROM CRC32:  0x279710dc
- ROM MD5:  0xeefac97ac3b85048f3685e1623210efb
- Mapper #:  7
- Mapper name: ANROM
- Mirroring: Horizontal
- Battery-backed: No
- Trained: No
-}}}
+
+||PRG ROM||16 x 16KiB||
+||CHR ROM||0 x  8KiB||
+||ROM CRC32||0x279710dc||
+||ROM MD5||0xeefac97ac3b85048f3685e1623210efb||
+||Mapper #||7||
+||Mapper name||ANROM||
+||Mirroring||Horizontal||
+||Battery-backed||No||
+||Trained||No||
