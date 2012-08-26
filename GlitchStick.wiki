@@ -1,8 +1,8 @@
 #summary Глючная палка
 
-=В Жабах=
+См. также: [ObjectCounter Object Counter glitch].
 
-[ObjectCounter Object Counter glitch]
+=В Жабах=
 
 В 4 и 9 уровнях надо 2 жабой залагать игру определенным образом, тогда из-за глюка атрибутов жабе пропишется держание палки.
 
