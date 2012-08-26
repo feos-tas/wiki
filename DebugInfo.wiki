@@ -2,10 +2,28 @@
 
 ||PRG ROM||16 x 16KiB||
 ||CHR ROM||0 x  8KiB||
-||ROM CRC32||0x279710dc||
-||ROM MD5||0xeefac97ac3b85048f3685e1623210efb||
 ||Mapper #||7||
 ||Mapper name||ANROM||
 ||Mirroring||Horizontal||
-||Battery-backed||No||
-||Trained||No||
+
+16 оригинальных банков по 16KiB распознаются лоадером для IDA как 8 по 32KiB. При поиске адреса, отображаемого IDA, в дебаггере FCEUX - следует просто умножить банк IDA на 2.
+
+----
+
+Брейкпоинты для определения поломки счетчика объектов:
+
+`$863C: EC--X-: K==#C&&Y>#16`
+
+`$8990: EC--X-: K==#C&&Y>#F`
+
+Можно использовать LUA-скрипт:
+{{{
+function CounterBreak()
+	ObjCtr = memory.getregister("y")
+	if ObjCtr > 0x16 then 
+		gui.text(1,1,string.format("%02X",ObjCtr))
+		emu.pause() 
+	end
+end
+memory.registerexecute(0x863C, CounterBreak);
+}}}
