@@ -6,6 +6,7 @@
 
  * [SuperGlitchJump Super high jump] (Ну очень высокий прыжок)
  * [LevelEnd Level End object] (Создание объекта "Конец уровня")
+ * Level 10 [TwiceLevelEnd] (Завершить уровень 2 раза подряд)
  * Level 12 [MinusPlayer Minus 1 player mode] (Исчезновение второго игрока в 12)
 
 
