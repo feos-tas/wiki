@@ -8,6 +8,7 @@
  * [LevelEnd Level End object] (Создание объекта "Конец уровня")
  * Level 10 [TwiceLevelEnd Double Level End] (Завершить уровень 2 раза подряд)
  * Level 12 [MinusPlayer Minus 1 player mode] (Исчезновение второго игрока в 12)
+ * [GameEnd Game End event] (Вызов конца игры)
 
 
 
