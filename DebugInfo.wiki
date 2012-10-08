@@ -1,12 +1,8 @@
 #summary Тонкости дебага
 
-NES game fast disassemble - IDA + scripts + FCEUX CDlogger:
+NES game fast disassemble - IDA + scripts + FCEUX CDlogger: http://www.youtube.com/watch?v=KZC_s0fGzoQ
 
-[http://www.youtube.com/watch?v=KZC_s0fGzoQ]
-
-Get the scripts here:
-
-http://code.google.com/p/feos-tas/source/browse/trunk#trunk%2FDisAssemble%2FUtils%2Fscripts
+Get the scripts here: http://code.google.com/p/feos-tas/source/browse/trunk#trunk/DisAssemble/Utils/scripts
 
 ----
 
