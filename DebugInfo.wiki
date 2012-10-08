@@ -1,5 +1,15 @@
 #summary Тонкости дебага
 
+NES game fast disassemble - IDA + scripts + FCEUX CDlogger:
+
+[http://www.youtube.com/watch?v=KZC_s0fGzoQ]
+
+Get the scripts here:
+
+http://code.google.com/p/feos-tas/source/browse/trunk#trunk%2FDisAssemble%2FUtils%2Fscripts
+
+----
+
 ||PRG ROM||16 x 16KiB||
 ||CHR ROM||0 x  8KiB||
 ||Mapper #||7||
