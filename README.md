@@ -27,12 +27,12 @@ Primary list to fill first.
 
 # Common tricks
 
- * [Attack.md] (Трюки с атакой) - 
- * [Dash.md] (Разбежка) - 
- * [DuckJump.md Duck or jump] (Начать уровень сидя или прыгая) - 
- * [GlitchStick.md Glitch stick] (Глючная палка) - 
- * [LuckManipulation.md Luck manipulation] (Манипуляция удачей) - 
- * [LeftRight.md Left + Right] (Работа Влево+Вправо) - 
- * [ObjectCounter.md Object Counter glitch] (Глюк счетчика объектов) - 
- * [OutOfBounds.md Out of bounds] (Выход из границ бэкграунда) - 
- * [VoidJump.md Void jump] (Прыжок из бездны) - 
+ * [Attack](Attack.md) - Трюки с атакой
+ * [Dash](Dash.md) - Разбежка
+ * [Duck or jump](DuckJump.md) - Начать уровень сидя или прыгая
+ * [Glitch stick](GlitchStick.md) - Глючная палка
+ * [Luck manipulation](LuckManipulation.md) - Манипуляция удачей
+ * [Left + Right](LeftRight.md) - Работа Влево+Вправо
+ * [Object Counter glitch](ObjectCounter.md) - Глюк счетчика объектов
+ * [Out of bounds](OutOfBounds.md) - Выход из границ бэкграунда
+ * [Void jump](VoidJump.md) - Прыжок из бездны
