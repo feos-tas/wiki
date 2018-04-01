@@ -5,7 +5,7 @@ Primary list to fill first.
 # NES Battletoads
 
  * [Super high jump](SuperGlitchJump.md) - Ну очень высокий прыжок
- * [Level End object](LevelEn.mdd) - Создание объекта "Конец уровня"
+ * [Level End object](LevelEn.md) - Создание объекта "Конец уровня"
  * Level 10 [Double Level End](TwiceLevelEnd.md) - Завершить уровень 2 раза подряд
  * Level 12 [Minus 1 player mode](MinusPlayer.md) - Исчезновение второго игрока
  * [Game End event](GameEnd.md) - Вызов конца игры
