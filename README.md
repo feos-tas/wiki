@@ -1,18 +1,16 @@
-#summary Primary list to fill first.
+Primary list to fill first.
 
 Сортируем по алфавиту.
 
-=NES Battletoads=
+# NES Battletoads
 
- * [SuperGlitchJump Super high jump] (Ну очень высокий прыжок)
- * [LevelEnd Level End object] (Создание объекта "Конец уровня")
- * Level 10 [TwiceLevelEnd Double Level End] (Завершить уровень 2 раза подряд)
- * Level 12 [MinusPlayer Minus 1 player mode] (Исчезновение второго игрока в 12)
- * [GameEnd Game End event] (Вызов конца игры)
+ * [Super high jump](SuperGlitchJump) - Ну очень высокий прыжок
+ * [Level End object](LevelEnd) - Создание объекта "Конец уровня"
+ * Level 10 [Double Level End](TwiceLevelEnd) - Завершить уровень 2 раза подряд
+ * Level 12 [Minus 1 player mode](MinusPlayer) - Исчезновение второго игрока в 12
+ * [Game End event](GameEnd) - Вызов конца игры
 
-
-
-=NES Battletoads & Double Dragon=
+# NES Battletoads & Double Dragon
 
  * [HitSpawningEnemy Hit enemy that is spawning] (Ударить врага в момент его зарождения)
  * [JugglingEnemies Juggling enemies] (Жонглирование врагами)
@@ -27,10 +25,7 @@
  * Level 5 [StopFires Switch the fires off] (Отключение мелких турбин в 5)
  * Level 6 [ShadowBoss Shadow-Boss tricks] (Трюки с Шадоу-боссом)
 
- 
-
-
-=Common tricks=
+# Common tricks
 
  * [Attack] (Трюки с атакой)
  * [Dash] (Разбежка)
